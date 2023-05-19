@@ -1,0 +1,7 @@
+body{
+    background-color: black;
+}
+.row{
+    border-radius: 10px;
+    background: linear-gradient(60deg, rgba(218, 133, 68, 0.984) 10%, rgba(218, 83, 68, 0.984) 10%,rgba(253,198,45,1) 30%, rgb(240, 162, 218) 43%, rgba(27,25,19,1) 31%, rgb(17, 181, 162) 91%, rgba(101,77,13,1) 98%, rgba(210,157,19,1) 100%);
+}

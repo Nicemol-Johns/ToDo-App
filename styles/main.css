@@ -1,0 +1,25 @@
+* {
+    padding:0;
+    margin:0;
+}
+body{
+    background-image:url("../images/home-office-gd3a8b1c4a_1920.jpg");
+    background-size: cover;
+    background-repeat: none;
+}
+.quote-text{
+    text-align: center;
+    margin-top:20%;
+    background-color: rgba(0, 0, 0, 0.224);
+}
+#quote{
+    color:white;
+    font-size: 6vh;
+    font-weight:900;
+}
+#author{
+    font-weight: 400;
+    color:white;
+    font-size:3vh;
+    background-color: rgba(0, 0, 0, 0.381);
+}
